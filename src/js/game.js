@@ -11,7 +11,7 @@ Game.Actions = {
 };
 
 
-Game.DesiredState = '123456780';
+Game.DesiredState = '123804765';
 
 
 Game.prototype.getAvaliableActionsAndStates = function() {
