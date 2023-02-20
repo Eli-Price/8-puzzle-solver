@@ -1,5 +1,5 @@
 var Game = function(opt_state) {
-    this.state = opt_state || '012345678';
+    this.state = opt_state || '130824765';
 };
 
 
